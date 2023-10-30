@@ -1,4 +1,4 @@
-<h1 align="center"> Responsividade </h1>
+<h1 align="center"> Escrita Semântica </h1>
 
 <p align="center">
 Recriando layout para praticar a escrita semântica no html.
